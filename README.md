@@ -19,9 +19,6 @@ The model takes the following features into account for CHD prediction:
 - **Diabetes**: Whether the patient has diabetes or not.
 - **Family History**: Family history of heart disease.
 
-## User Interface
-A user-friendly interface is provided for inputting patient data and displaying predicted CHD risk. Users can input their information, and the model will provide an estimated risk score along with recommendations for preventive measures.
-
 ## Dependencies
 - Python 3.x
 - NumPy
@@ -39,9 +36,3 @@ The trained model achieves 75 percent. Users can input patient data and receive 
 ## Contributors
 - Amritanshu Srivastava https://github.com/feelingguilty
 
-## License
-This project is licensed under the [MIT License](link to license file).
-
-## Acknowledgements
-- [Source of dataset](link to dataset source)
-- [Inspiration or guidance source](link to inspiration or guidance)
