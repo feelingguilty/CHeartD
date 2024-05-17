@@ -26,7 +26,7 @@ The model takes the following features into account for CHD prediction:
 - Scikit-learn
 
 ## Results
-The trained model achieves 75 percent. Users can input patient data and receive an estimated risk of CHD, helping in early detection and prevention strategies.
+The trained model achieves 85 percent. Users can input patient data and receive an estimated risk of CHD, helping in early detection and prevention strategies.
 
 ## Future Improvements
 - Include more features such as dietary habits, exercise routine, and stress levels for better predictions.
